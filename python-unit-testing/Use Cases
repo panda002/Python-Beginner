@@ -1,0 +1,8 @@
+- Can I call FizzBuz
+- Get "1" when I pass 1
+- Get "2" when I pass 2
+- Get "Fizz" when I pass 3
+- Get "Buzz" when I pass 5
+- Get "Fizz" when I pass 6 - a multiple of 3
+- Get "Buzz" when I pass 10 - a multiple of 5
+- Get "FizzBuzz" when I pass 15 - a multiple of 3 and 5

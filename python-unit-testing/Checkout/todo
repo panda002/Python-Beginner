@@ -1,0 +1,4 @@
+`` can call readfromfile
+- readfromfile return correct string
+- readfromfile throws exception
+  when file doesn't exit
